@@ -6,10 +6,16 @@ Scientific Calculator in Flutter
 
 ## 1. Dual theme setup 
 
-Light Mode  
+#Light Mode  
+
+
 <img src="https://github.com/Anshnrag02/Flutter_SIG/blob/main/Ansh/scientific_calculator/imgs/1.JPG">
 
-Dark Mode
+
+
+#Dark Mode
+
+
 <img src="https://github.com/Anshnrag02/Flutter_SIG/blob/main/Ansh/scientific_calculator/imgs/1.JPG">
 
 ## 2. Functional Scientific Calculator
