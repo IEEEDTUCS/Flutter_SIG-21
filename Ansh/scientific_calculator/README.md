@@ -1,16 +1,17 @@
-# scientific_calculator
+# Scientific_Calculator
 
 Scientific Calculator in Flutter
 
-## Getting Started
+# Highlights
 
-This project is a starting point for a Flutter application.
+## 1. Dual theme setup 
 
-A few resources to get you started if this is your first Flutter project:
+Light Mode  
+<img src="https://github.com/Anshnrag02/Flutter_SIG/blob/main/Ansh/scientific_calculator/imgs/1.JPG">
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+Dark Mode
+<img src="https://github.com/Anshnrag02/Flutter_SIG/blob/main/Ansh/scientific_calculator/imgs/1.JPG">
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 2. Functional Scientific Calculator
+
+<img src="https://github.com/Anshnrag02/Flutter_SIG/blob/main/Ansh/scientific_calculator/imgs/1.JPG">
